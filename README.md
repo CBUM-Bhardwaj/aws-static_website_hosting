@@ -1,4 +1,4 @@
-# Updated WS — Static Website Hosting on S3  
+# AWS — Static Website Hosting on S3  
 *Simple project, but packed with real understanding.*
 
 ---
